@@ -2,8 +2,8 @@
 
 
 ## Team Members
-- Member1
-- Member2
+- Winston Ceh
+- Johnny Konnagel
 
 # Project Idea
 What we are going to do
