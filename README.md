@@ -1,2 +1,9 @@
 # IT360_Final_Project
-Final group project for IT360
+
+
+##Team Members
+-- Member1
+-- Member2
+
+#Project Idea
+What we are going to do
