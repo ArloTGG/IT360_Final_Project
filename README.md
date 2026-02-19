@@ -22,4 +22,7 @@ This project will be automated and report the log in a readable fashion to a pla
 - Artifacts Gathered: User activity/Network data
 - Implementation Language: Python
 - Output Format: Secure Containers/Structured Formats
+
+## Usage of AI
+AI will be used in this project by sending the log produced by our system to be read by one of the provided API's (likely Llama3.1). The purpose of AI in this case is to create a structured and written report on the alerts found by the honeyfile is a more readable format as well as the potential nature of the alert. Our goal for AI in this project is to better differentiate someone accidentally opening or accessing the honeyfile from someone who has malicious intent trying to do so.
   
