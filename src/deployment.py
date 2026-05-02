@@ -11,7 +11,7 @@ def get_latest_logs():
     return raw_log
    
 def honeypot_analysis():
-    client = genai.Client(api_key = "AIzaSyAmUEAlRBaDZkFxD6SwdKh6mpYt6TSvAY0")
+    client = genai.Client(api_key = "API_KEY_HERE")
     log_data = get_latest_logs()
     response = client.models.generate_content (
         model = "gemini-3.1-flash-lite-preview",
